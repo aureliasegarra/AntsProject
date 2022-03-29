@@ -1,11 +1,10 @@
 #  📦 OOP JAVA
-
-## 👉 Ants theme to play with OOP in a Java Project
+Ants theme to play with OOP in a Java Project
 
 ## 📸 Illustration 
 coming soon ...
 
-## Language/tools 🛠
+## 🛠 Language/tools 
 - Java
 - Maven
 
