@@ -10,14 +10,14 @@ coming soon ...
 - Maven
 
 
-## Goals 🏔
+## 🏔 Goals 
 - Practice OOP 
 - Practice Java
 - Discover IntelliJIDEA
 
 
-## Status 🎯
+## 🎯 Status 
 Project not completed
 
-## Context 🗓
+## 🗓 Context 
 Project developed as a junior web developer during my BTS SIO SLAM.
