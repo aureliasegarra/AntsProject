@@ -13,5 +13,10 @@ public class AntsGame {
         System.out.println(f1);
         System.out.println(f2);
         System.out.println(f3);
+
+        Antsfarm antsfarm = new Antsfarm();
+        System.out.println(antsfarm);
+        System.out.println("Number of workers =" + antsfarm);
+        System.out.println("the cleaning :" + antsfarm.getTheCleaning());
     }
 }
